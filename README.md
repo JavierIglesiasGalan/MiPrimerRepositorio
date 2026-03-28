@@ -1,2 +1,2 @@
 # MiPrimerRepositorio
-Este repositorio es una prueba
+Creación de fichero para generar contraseñas
